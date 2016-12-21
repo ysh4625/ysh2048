@@ -36,5 +36,5 @@ You can find the same information in the [contributing guide.](https://github.co
 dasfdfasdf
 
 ## Donations
-asdasdaagwwer
+asdasdaagwwerdfsd
 I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. Thank you very much!
